@@ -11,7 +11,7 @@ export default function HeroSection() {
           Discover a wide range of courses covering a variety of subjects,
           taught by expert instructors.
         </p>
-        <div className="text-left pt-[16px] w-[358px] h-[64px]">
+        <div className="text-center lg:text-left pt-[16px] w-[358px] h-[64px]">
           <Button className="bg-[#000000] text-[14px] lg:text-[16px] font-Roboto w-[150px] lg:w-[178px] h-[48px] rounded-[5px] font-normal text-[#FFFFFF] hover:bg-gray-800">
             Start learning now
           </Button>
