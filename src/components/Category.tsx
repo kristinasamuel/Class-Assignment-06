@@ -7,7 +7,7 @@ export default function Categoryes() {
         <h2 className="text-center lg:text-left w-[385px] lg:w-[768px] font-Roboto font-bold text-[32px] lg:text-[48px] text-[#000000]">
           Explore Courses By Category
         </h2>
-        <p className="font-normal text-left font-Roboto w-[385px] lg:w-[768px] text-[18px] mt-3 ">
+        <p className="font-normal text-center lg:text-left font-Roboto w-[380px] lg:w-[768px] text-[18px] mt-3 ">
           Discover a wide range of courses covering a variety of subjects,
           taught by expert instructors.
         </p>

@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Button } from "./ui/button";
 export default function Courses() {
   return (
-    <div className="bg-[#FFFFFF] w-full pt-32 lg:pt-[112px] overflow-hidden">
+    <div className="bg-[#FFFFFF] w-full h-100vh pt-32 lg:pt-[112px] overflow-hidden">
       <div className="flex flex-col items-center justify-center mb-6">
         <h1 className="font-Roboto font-bold text-[56px] text-[#000000] mb-4 mt-20 md:mt-10 lg:mt-0">
           Courses

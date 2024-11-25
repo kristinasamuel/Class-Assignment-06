@@ -1,8 +1,8 @@
 export default function Achievements() {
   return (
-    <div className="flex flex-col justify-center items-center w-full min-h-screen md:h-[400px] lg:h-[488px] pt-[32px] lg:pt-[112px] overflow-hidden">
+    <div className="flex flex-col justify-center items-center w-full h-[500px] md:h-[400px] lg:h-[488px] overflow-hidden">
       <div className="h-[264px] text-center">
-        <h2 className="font-Roboto font-bold text-[48px] ">Our Achivements</h2>
+        <h2 className="font-Roboto font-bold text-[32px] lg:text-[48px] ">Our Achivements</h2>
         <p className="font-Roboto font-normal text-[18px] text-center w-full lg:w-[1152px] hidden lg:block">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
           varius enim in eros elementum tristique. Duis cursus, mi quis viverra

@@ -2,12 +2,12 @@ import Image from "next/image";
 import { Button } from "./ui/button";
 export default function HeroSection() {
   return (
-    <div className="flex flex-col lg:flex-row w-full h-[850px] sm:h-[700px] lg:h-[800px] bg-[#FFFFFF] overflow-hidden">
+    <div className="flex flex-col lg:flex-row w-full h-100vh lg:h-[800px] bg-[#FFFFFF] overflow-hidden">
       <div className="flex flex-col items-center lg:items-start text-center lg:pl-[80px] lg:mt-[141px] lg:w-[640px]">
-        <h1 className="font-bold font-Roboto text-left mt-14 w-[380px] text-[40px] lg:text-[56px] lg:w-[500px] text-[#000000]">
+        <h1 className="font-bold font-Roboto text-center lg:text-left mt-14 w-[380px] text-[40px] lg:text-[56px] lg:w-[500px] text-[#000000]">
           Learn new skills online with ease
         </h1>
-        <p className="font-normal text-left font-Roboto w-[380px] lg:w-[500px] text-[16px] lg:text-[18px] mt-5">
+        <p className="font-normal text-center lg:text-left font-Roboto w-[380px] lg:w-[500px] text-[16px] lg:text-[18px] mt-5">
           Discover a wide range of courses covering a variety of subjects,
           taught by expert instructors.
         </p>
