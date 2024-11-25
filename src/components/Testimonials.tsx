@@ -8,10 +8,10 @@ export default function Testimonials() {
       <h2 className="font-Roboto font-bold text-[48px] hidden md:block lg:block">
         Customer testimonials
       </h2>
-      <h4 className="font-Roboto w-full font-bold text-center justify-center text-[32px] md:hidden ">
+      <h4 className="font-Roboto w-full font-bold text-center justify-center text-[28px] lg:text-[32px] md:hidden ">
         What Our Student Say
       </h4>
-      <p className="text-center lg:text-left  text-[18px] font-Roboto font-normal w-[361px] md:w-[400px] lg:w-[560px] mt-[8px]">
+      <p className="text-center lg:text-left text-[16px] lg:text-[18px] font-Roboto font-normal w-full md:w-[400px] lg:w-[560px] mt-[8px]">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </p>
       <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 gap-6 md:gap-8 lg:gap-[24px]  text-center justify-center mt-[64px]">

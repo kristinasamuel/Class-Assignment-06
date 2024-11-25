@@ -7,7 +7,7 @@ export default function HeroSection() {
         <h1 className="font-bold font-Roboto text-center lg:text-left mt-14 w-[380px] text-[40px] lg:text-[56px] lg:w-[500px] text-[#000000]">
           Learn new skills online with ease
         </h1>
-        <p className="font-normal text-center lg:text-left font-Roboto w-[380px] lg:w-[500px] text-[16px] lg:text-[18px] mt-5">
+        <p className="font-normal text-center lg:text-left font-Roboto w-full lg:w-[500px] text-[16px] lg:text-[18px] mt-5">
           Discover a wide range of courses covering a variety of subjects,
           taught by expert instructors.
         </p>
