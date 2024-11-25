@@ -1,13 +1,13 @@
-import Achievements from "@/components/Achievements";
-import Categoryes from "@/components/Category";
-import Courses from "@/components/Courses";
-import Footer from "@/components/Footer";
-import HeaderMain from "@/components/HeaderMain";
 import HeaderTop from "@/components/HeaderTop";
+import HeaderMain from "@/components/HeaderMain";
 import HeroSection from "@/components/HeroSection";
 import Logos from "@/components/Logos";
+import Categoryes from "@/components/Category";
+import Achievements from "@/components/Achievements";
+import Courses from "@/components/Courses";
 import OurTeam from "@/components/OurTeam";
 import Testimonials from "@/components/Testimonials";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -22,7 +22,6 @@ export default function Home() {
         <OurTeam/>
         <Testimonials/>
         <Footer/>
-
     </div>
   );
 }
